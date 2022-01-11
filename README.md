@@ -21,8 +21,8 @@ You'll find below the exact set of actions that you'll need to proceed with in o
 
 3. Payment
     - a. Concordium will receive a notification once your delivery is approved. 
-    - b. If this is your first delivery, you'll have to create an account on Concordium and proceed to a full KYC process. Please click here to begin. 
-    - c. Payment will be made up to 4 weeks after the approval of your delivery and once KYCed via Fiat or $CCD. 
+    - b. If this is your first delivery, you'll have to create an account on Concordium.
+    - c. Payment will be made up to 4 weeks after the approval of your delivery and once identified via Fiat or $CCD. 
 
 This is important to know that applications can and must be amended at any time and if necessary. We believe in constructive dialogue and our team will accompany you on the road to get your milestones approved in a proper way. 
     
