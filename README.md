@@ -9,7 +9,7 @@ You'll find below the exact set of actions that you'll need to proceed with in o
 
 1. Milestone Delivery
     - a. Fork this repo with the same Github account that you've used to submit your application. 
-    - b. In the new created fork, please create a copy of the milestone delivery template, that you can find here. 
+    - b. In the new created fork, please create a copy of the milestone delivery template, that you can find [here](https://github.com/Concordium/Concordium-Free-Open-Grant-Milestone-Delivery/blob/main/Milestone%20Delivery%20Template.md). 
     - c. Name the file " project_name-milestone_number.md "
     - d. If relevant fill out the Payment request form. 
     - e. Do NOT forget to add to the form the details of our milestone including a link to the pull request of your application. 
